@@ -1,25 +1,12 @@
-# :sunglasses: :scroll: **Awesome Maths Learning** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# The Greater Mathematics Repository 
 
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
-
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](https://github.com/tensorush/Awesome-Maths-Learning/pulls)
-[![Contributors][contributors-shield]][contributors-url]
-[![Issues][issues-shield]][issues-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Forks][forks-shield]][forks-url]
-[![GNU GPL v3.0][license-shield]][license-url]
-
-<p align="center">
+<p >
     <img src="https://bleuje.github.io/gifset/2020/gifs/2020_11_starscube.gif">
 </p>
 
 <h4 align="center">
     <p><a href="https://twitter.com/etiennejcb/">Animation by Étienne Jacob</a></p>
 </h4>
-
-## :man_student: Collection of the most awesome Math learning resources in the form of notes, videos and cheatsheets.
-
-> ### Contributions are very welcome! :hugs:
 
 ## Table of Contents
 
