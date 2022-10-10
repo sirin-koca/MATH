@@ -1,234 +1,139 @@
-# The Greater Mathematics Repository 
+# Mathematics
 
-<p >
-    <img src="https://bleuje.github.io/gifset/2020/gifs/2020_11_starscube.gif">
-</p>
+---
+<table>
+<tr>
+    <th>The Universe of Mathematics</th>
+    <th>Discrete Mathematics</th>
+    <th> Computation Theory </th>
+</tr>
+    <tr>
+    <td>
+    <img src="https://bleuje.github.io/gifset/2020/gifs/2020_11_starscube.gif" width="300" height="300"><br>
+    <a href="https://twitter.com/etiennejcb/"><sub>Animation by Étienne Jacob</sub></a>
+    </td>
+    <td>
+    
+- [Discrete Mathematics](https://github.com/tensorush/Awesome-Maths-Learning/blob/master/Discrete-Mathematics)
+- [Videos by Matthew Macauley](https://www.youtube.com/playlist?list=PLwV-9DG53NDz3zpkmsYx3BLzTAP6FyHeg)
+- [Notes by Eshan Chattopadhyay](https://www.cs.cornell.edu/courses/cs6815/2019fa/)
+- [Notes by Jieyou Xu](https://github.com/tensorush/Awesome-Maths-Learning/blob/master/Discrete-Mathematics/xu.pdf) 
+- [Notes by Tero Harju](https://github.com/tensorush/Awesome-Maths-Learning/blob/master/Discrete-Mathematics/harju.pdf)
+- [Cheatsheet by Max Kasperowski](https://github.com/tensorush/Awesome-Maths-Learning/blob/master/Discrete-Mathematics/kasperowski.pdf) 
+- [Notes by Trinity College Dublin's students](https://github.com/tensorush/Awesome-Maths-Learning/blob/master/Discrete-Mathematics/trinity.pdf) 
+- [Notes by Anna Brandenberger and Binyuan Sun](https://github.com/tensorush/Awesome-Maths-Learning/blob/master/Discrete-Mathematics/brandenberger_sun.pdf)        
+    </td>
+<td>   
+    
+- [Slides by Anuj Dawar](https://www.cl.cam.ac.uk/teaching/2122/Complexity/)
+- [Slides by Vann McGee](https://ocw.mit.edu/courses/24-242-logic-ii-spring-2004/)
+- [Slides by Andrew Pitts](https://www.cl.cam.ac.uk/teaching/2122/CompTheory/)
+- [Slides by Derek Bridge](http://www.cs.ucc.ie/~dgb/courses/toc/lectures.html)
+- [Videos by Michael Sipser](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/)
+- [Videos by Ghassan Shobaki](https://www.youtube.com/playlist?list=PL6KMWPQP_DM9Y7IgaEWa_OHAl3RkAQwqH)
+- [Notes Part I by Scott Aaronson](https://ocw.mit.edu/courses/6-080-great-ideas-in-theoretical-computer-science-spring-2008/)
+- [Notes by Eshan Chattopadhyay](https://www.cs.cornell.edu/courses/cs6810/2021fa/)
+- [Notes Part II by Scott Aaronson](https://ocw.mit.edu/courses/6-045j-automata-computability-and-complexity-spring-2011/)
+- [Slides from University of Washington](http://courses.cs.washington.edu/courses/cse531/)
+- [Videos by Nathan Brunelle and David Evans](https://uvatoc.github.io/)
+        </td>
 
-<h4 align="center">
-    <p><a href="https://twitter.com/etiennejcb/">Animation by Étienne Jacob</a></p>
-</h4>
+</tr>
+    </table>
+    
+---
 
-## Table of Contents
+<table>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+    
+<tr>
+<td>       
 
-- [:ring: Abstract Algebra](#ring-abstract-algebra)
-- [:roller_coaster: Calculus](#roller_coaster-calculus)
-- [:cat2: Category Theory](#cat2-category-theory)
-- [:butterfly: Chaos Theory](#butterfly-chaos-theory)
-- [:unicorn: Complex Analysis](#unicorn-complex-analysis)
-- [:computer: Computation Theory](#computer-computation-theory)
-- [:milky_way: Differential Equations](#milky_way-differential-equations)
-- [:flying_disc: Differential Geometry](#flying_disc-differential-geometry)
-- [:man_juggling: Discrete Mathematics](#man_juggling-discrete-mathematics)
-- [:world_map: Functional Analysis](#world_map-functional-analysis)
-- [:ice_cube: Geometric Algebra](#ice_cube-geometric-algebra)
-- [:diamond_shape_with_a_dot_inside: Graph Theory](#diamond_shape_with_a_dot_inside-graph-theory)
-- [:family_man_woman_girl_boy: Group Theory](#family_man_woman_girl_boy-group-theory)
-- [:ear: Harmonic Analysis](#ear-harmonic-analysis)
-- [:information_source: Information Theory](#information_source-information-theory)
-- [:mechanical_arm: Linear Algebra](#mechanical_arm-linear-algebra)
-- [:robot: Machine Learning](#robot-machine-learning)
-- [:thought_balloon: Mathematical Logic](#thought_balloon-mathematical-logic)
-- [:triangular_ruler: Measure Theory](#triangular_ruler-measure-theory)
-- [:abacus: Number Theory](#abacus-number-theory)
-- [:game_die: Probability Theory](#game_die-probability-theory)
-- [:horse: Real Analysis](#horse-real-analysis)
-- [:basket: Set Theory](#basket-set-theory)
-- [:bar_chart: Statistical Theory](#bar_chart-statistical-theory)
-- [:wrestling: Surreal Numbers](#wrestling-surreal-numbers)
-- [:globe_with_meridians: Topology](#globe_with_meridians-topology)
-- [:slot_machine: Various Topics](#slot_machine-various-topics)
+- [Videos by Math](https://www.youtube.com/playlist?list=PL7iNT_qlwE2fQvCGAx81v35ppHmPRvZJs)
+- [Videos by MathMajor](https://www.youtube.com/playlist?list=PLVMgvCDIRy1wONAFFjMV9c0QaNuyfT5Gk)
+- [Videos by Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqxaZ-v5N4AprggFkQXgkNoP)
+- [Videos by Richard Borcherds](https://www.youtube.com/playlist?list=PL8yHsr3EFj53rSexSz7vsYt-3rpHPR3HB)
+- [Videos by Svetlana Makarova](https://www.youtube.com/playlist?list=PLgKjq_nhy2RadlA1XE6JxGkwUuSR-cx1m)
+- [Videos by Krishna Hanumanthu](https://nptel.ac.in/courses/111106131)
+- [Videos by Michael​ ​Harrison and Liliana​ ​de​ ​Castro](https://www.youtube.com/playlist?list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6)        
+- [Videos by Brendan Fong and others](http://brendanfong.com/programmingcats.html)        
+- [Videos by David Spivak and Brendan Fong](https://www.youtube.com/playlist?list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5)    
+- [Videos by Jeremy Mann](https://www.youtube.com/playlist?list=PLtiFxYEaQEcjabR9lRBvMlfs9TgGZXwKV)
+- [Videos by Varun Malladi](https://www.youtube.com/playlist?list=PLR8CgI6LLTKT7WcouQpJqs5Goxxkkz39G)    
 
-## :ring: [Abstract Algebra](https://github.com/tensorush/Awesome-Maths-Learning/blob/master/Abstract-Algebra)
 
-- ### :tv: [Videos by Math I Like](https://www.youtube.com/playlist?list=PL7iNT_qlwE2fQvCGAx81v35ppHmPRvZJs)
+</td>
+<td>
 
-- ### :tv: [Videos by MathMajor](https://www.youtube.com/playlist?list=PLVMgvCDIRy1wONAFFjMV9c0QaNuyfT5Gk)
+- [Cheatsheet by nLab](https://ncatlab.org/nlab/all_pages)
+- [Slides by Andrew Pitts](https://www.cl.cam.ac.uk/teaching/2122/CAT/)
+- [Book by Bartosz Milewski](https://github.com/hmemcpy/milewski-ctfp-pdf/)
+- [Book by Ivan Murashko and others](https://github.com/CatTheoryByExample/book)
+- [Book by Institute for Advanced Study](https://homotopytypetheory.org/book/)
+- [Slides by Emily Riehl](https://github.com/tensorush/Awesome-Maths-Learning/blob/master/Category-Theory/riehl.pdf) 
+- [Slides by Marcelo Fiore and Jamie Vicary](https://www.cl.cam.ac.uk/teaching/2122/L118/)
+- [Notes by Miles Reid](https://github.com/tensorush/Awesome-Maths-Learning/blob/master/Abstract-Algebra/reid.pdf)
+- [Notes by Jackson Petty](https://github.com/tensorush/Awesome-Maths-Learning/blob/master/Abstract-Algebra/petty.pdf)
+- [Notes on by Dana Ernst](https://github.com/tensorush/Awesome-Maths-Learning/blob/master/Abstract-Algebra/ernst.pdf)
+- [Notes by Robert Howlett](https://github.com/tensorush/Awesome-Maths-Learning/blob/master/Abstract-Algebra/howlett.pdf)
 
-- ### :tv: [Videos by Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqxaZ-v5N4AprggFkQXgkNoP)
 
-- ### :tv: [Videos by Richard Borcherds](https://www.youtube.com/playlist?list=PL8yHsr3EFj53rSexSz7vsYt-3rpHPR3HB)
+</td>
+<td>
 
-- ### :tv: [Videos by Svetlana Makarova](https://www.youtube.com/playlist?list=PLgKjq_nhy2RadlA1XE6JxGkwUuSR-cx1m)
-
-- ### :tv: [Videos by Krishna Hanumanthu](https://nptel.ac.in/courses/111106131)
-
-- ### :writing_hand: [Notes by Miles Reid](https://github.com/tensorush/Awesome-Maths-Learning/blob/master/Abstract-Algebra/reid.pdf) — [Original Source](http://homepages.warwick.ac.uk/~masda/MA3D5/Galois.pdf)
-
-- ### :writing_hand: [Notes by Jackson Petty](https://github.com/tensorush/Awesome-Maths-Learning/blob/master/Abstract-Algebra/petty.pdf) — [Original Source](https://github.com/jopetty/lecture-notes/tree/master/MATH-350)
-
-- ### :writing_hand: [Notes on by Dana Ernst](https://github.com/tensorush/Awesome-Maths-Learning/blob/master/Abstract-Algebra/ernst.pdf) — [Original Source](https://github.com/dcernst/IBL-AbstractAlgebra)
-
-- ### :writing_hand: [Notes by Robert Howlett](https://github.com/tensorush/Awesome-Maths-Learning/blob/master/Abstract-Algebra/howlett.pdf) — [Original Source](https://www.maths.usyd.edu.au/u/bobh/UoS/rfwhole.pdf)
-
-- ### :writing_hand: [Videos by Michael​ ​Harrison and Liliana​ ​de​ ​Castro](https://www.youtube.com/playlist?list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6)
-
-## :roller_coaster: [Calculus](https://github.com/tensorush/Awesome-Maths-Learning/blob/master/Calculus)
-
-- ### :tv: [Videos by Kyle Broder](https://www.youtube.com/playlist?list=PL912tg7wFUfXY3_0XMufwFPMk3gU02JVL)
-
-- ### :writing_hand: [Notes by Paul Dawkins](https://tutorial.math.lamar.edu/)
-
-- ### :tv: [Videos by Trefor Bazett](https://www.youtube.com/c/DrTreforBazett/playlists)
-
-- ### :tv: [Videos by Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqz4R-2yzZDbxRuioaOjGml3)
-
-- ### :tv: [Videos by Denis Auroux](https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38)
-
-- ### :tv: [Videos by Herbert Gross](https://www.youtube.com/playlist?list=PLW18-jILJ66t9KZvoPpN6bDQaP7Yg42Hh)
-
-- ### :tv: [Videos by Pavel Grinfeld](https://www.youtube.com/c/MathTheBeautiful/playlists?view=1&sort=dd&shelf_id=0)
-
-- ### :tv: [Videos by German Enciso](https://www.youtube.com/playlist?list=PLqOZ6FD_RQ7mTBoA3dZ5Ajp0Nn8OymkwB)
-
-- ### :tv: [Videos by Edward Frenkel](https://www.youtube.com/playlist?list=PLaLOVNqqD-2GcoO8CLvCbprz2J0_1uaoZ)
-
-- ### :tv: [Videos by Jeffrey Chasnov](https://www.youtube.com/playlist?list=PLkZjai-2JcxnYmkg6fpzz4WFumGVl7MOa)
-
-- ### :tv: [Videos by Natalia Komarova](https://www.youtube.com/playlist?list=PLqOZ6FD_RQ7mxsWrqTwndCBFXAKC0Xho9)
-
-- ### :tv: [Videos by Grant Sanderson and Sal Khan](https://www.youtube.com/playlist?list=PLSQl0a2vh4HC5feHa6Rc5c0wbRTx56nF7)
-
-- ### :writing_hand: [Notes by Henchen Hu](https://github.com/tensorush/Awesome-Maths-Learning/blob/master/Calculus/hu.pdf) — [Original Source](https://github.com/HechenHu/Mathematics-Notes/tree/master/Mathematical%20Analysis)
-
-- ### :writing_hand: [Notes by Samuel Coskey](https://github.com/tensorush/Awesome-Maths-Learning/blob/master/Calculus/coskey.pdf) — [Original Source](https://github.com/scoskey/m314)
-
-- ### :writing_hand: [Notes by Andrew Campbell](https://github.com/tensorush/Awesome-Maths-Learning/blob/master/Calculus/campbell.pdf) — [Original Source](https://github.com/andrewdcampbell/LaTeX-Course-Notes)
-
-- ### :black_joker: [Cheatsheet by Afshine Amidi and Shervine Amidi](https://github.com/tensorush/Awesome-Maths-Learning/blob/master/Calculus/amidi_twins.pdf) — [Original Source](https://github.com/shervinea/stanford-cme-102-ordinary-differential-equations)
-
-## :cat2: [Category Theory](https://github.com/tensorush/Awesome-Maths-Learning/blob/master/Category-Theory)
-
-- ### :film_projector: [Cheatsheet by nLab](https://ncatlab.org/nlab/all_pages)
-
-- ### :film_projector: [Slides by Andrew Pitts](https://www.cl.cam.ac.uk/teaching/2122/CAT/)
-
-- ### :tv: [Videos by Jeremy Mann](https://www.youtube.com/playlist?list=PLtiFxYEaQEcjabR9lRBvMlfs9TgGZXwKV)
-
-- ### :tv: [Videos by Varun Malladi](https://www.youtube.com/playlist?list=PLR8CgI6LLTKT7WcouQpJqs5Goxxkkz39G)
-
-- ### :book: [Book by Bartosz Milewski](https://github.com/hmemcpy/milewski-ctfp-pdf/)
-
-- ### :tv: [Videos by Bartosz Milewski](https://www.youtube.com/user/DrBartosz/playlists)
-
-- ### :tv: [Videos by Paul-André Melliès](https://github.com/pamellies/lambda-calculus-and-categories)
-
-- ### :book: [Book by Ivan Murashko and others](https://github.com/CatTheoryByExample/book)
-
-- ### :tv: [Videos by Brendan Fong and others](http://brendanfong.com/programmingcats.html)
-
-- ### :book: [Book by Institute for Advanced Study](https://homotopytypetheory.org/book/)
-
-- ### :film_projector: [Slides by Emily Riehl](https://github.com/tensorush/Awesome-Maths-Learning/blob/master/Category-Theory/riehl.pdf) — [Original Source](https://github.com/emilyriehl/721)
-
-- ### :film_projector: [Slides by Marcelo Fiore and Jamie Vicary](https://www.cl.cam.ac.uk/teaching/2122/L118/)
-
-- ### :tv: [Videos by David Spivak and Brendan Fong](https://www.youtube.com/playlist?list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5)
-
-- ### :writing_hand: [Notes by Bodo Pareigis](https://github.com/tensorush/Awesome-Maths-Learning/blob/master/Category-Theory/pareigis.pdf) — [Original Source](https://www.mathematik.uni-muenchen.de/~pareigis/Vorlesungen/04SS/Cats1.pdf)
-
-- ### :book: [Book by Jonathan Sterling and Carlo Angiuli](http://www.jonmsterling.com/math/lectures/categorical-foundations.html)
-
-- ### :writing_hand: [Notes by Thomas Streicher](https://github.com/tensorush/Awesome-Maths-Learning/blob/master/Category-Theory/streicher.pdf) — [Original Source](https://www2.mathematik.tu-darmstadt.de/~streicher/CTCL.pdf)
-
-- ### :writing_hand: [Notes by Jan-Willem Buurlage](https://github.com/tensorush/Awesome-Maths-Learning/blob/master/Category-Theory/buurlage.pdf) — [Original Source](https://github.com/jwbuurlage/category-theory-programmers)
-
-- ### :book: [Book by Jiří Adámek, Horst Herrlich and George Strecker](http://katmat.math.uni-bremen.de/acc/acc.pdf)
-
-## :butterfly: [Chaos Theory](https://github.com/tensorush/Awesome-Maths-Learning/blob/master/Chaos-Theory)
-
-- ### :tv: [Videos by Shane Ross](https://www.youtube.com/playlist?list=PLUeHTafWecAUqSh3Gy0NNr7H3OsXoC-aK)
-
-- ### :tv: [Videos by Philippe Trinh](https://www.youtube.com/playlist?list=PLILvrDLrWErzBjluwtqSp6jdbrvjFROkq)
-
-- ### :tv: [Videos by David Feldman](https://www.youtube.com/playlist?list=PLF0b3ThojznQwpDEClMZmHssMsuPnQxZT)
-
-- ### :tv: [Videos by Steven Strogatz](https://www.youtube.com/playlist?list=PLbN57C5Zdl6j_qJA-pARJnKsmROzPnO9V)
-
-- ### :writing_hand: [Notes by Geoffrey Goodson](https://github.com/tensorush/Awesome-Maths-Learning/blob/master/Chaos-Theory/goodson.pdf) — [Original Source](http://www.issp.ac.ru/ebooks/books/open/Chaos_Fractal_Geometry.pdf)
+- [Videos by Shane Ross](https://www.youtube.com/playlist?list=PLUeHTafWecAUqSh3Gy0NNr7H3OsXoC-aK)
+- [Videos by Philippe Trinh](https://www.youtube.com/playlist?list=PLILvrDLrWErzBjluwtqSp6jdbrvjFROkq)
+- [Videos by David Feldman](https://www.youtube.com/playlist?list=PLF0b3ThojznQwpDEClMZmHssMsuPnQxZT)
+- [Videos by Steven Strogatz](https://www.youtube.com/playlist?list=PLbN57C5Zdl6j_qJA-pARJnKsmROzPnO9V)
+- [Notes by Geoffrey Goodson](https://github.com/tensorush/Awesome-Maths-Learning/blob/master/Chaos-Theory/goodson.pdf)
+- [Notes by Bodo Pareigis](https://github.com/tensorush/Awesome-Maths-Learning/blob/master/Category-Theory/pareigis.pdf) 
+- [Book by Jonathan Sterling and Carlo Angiuli](http://www.jonmsterling.com/math/lectures/categorical-foundations.html)
+- [Notes by Thomas Streicher](https://github.com/tensorush/Awesome-Maths-Learning/blob/master/Category-Theory/streicher.pdf) 
+- [Notes by Jan-Willem Buurlage](https://github.com/tensorush/Awesome-Maths-Learning/blob/master/Category-Theory/buurlage.pdf) 
+- [Book by Jiří Adámek, Horst Herrlich and George Strecker](http://katmat.math.uni-bremen.de/acc/acc.pdf)
+- [Videos by Bartosz Milewski](https://www.youtube.com/user/DrBartosz/playlists)
+- [Videos by Paul-André Melliès](https://github.com/pamellies/lambda-calculus-and-categories)
+</td>
+</tr>
+    
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+</table>
 
 ## :unicorn: Complex Analysis
 
-- ### :tv: [Videos by MathMajor](https://www.youtube.com/playlist?list=PLVMgvCDIRy1wzJcFNGw7t4tehgzhFtBpm)
+- [Videos by MathMajor](https://www.youtube.com/playlist?list=PLVMgvCDIRy1wzJcFNGw7t4tehgzhFtBpm)
+- [Videos by Kyle Broder](https://www.youtube.com/playlist?list=PL912tg7wFUfV4QgPg75y0TvUsjJf48IWW)
+- [Videos by Julian Großmann](https://www.youtube.com/playlist?list=PLBh2i93oe2qtIc75sLYaVEBt0QNqVbdmZ)
+- [Videos by Richard Borcherds](https://www.youtube.com/playlist?list=PL8yHsr3EFj537_iYA5QrvwhvMlpkJ1yGN)
 
-- ### :tv: [Videos by Kyle Broder](https://www.youtube.com/playlist?list=PL912tg7wFUfV4QgPg75y0TvUsjJf48IWW)
-
-- ### :tv: [Videos by Julian Großmann](https://www.youtube.com/playlist?list=PLBh2i93oe2qtIc75sLYaVEBt0QNqVbdmZ)
-
-- ### :tv: [Videos by Richard Borcherds](https://www.youtube.com/playlist?list=PL8yHsr3EFj537_iYA5QrvwhvMlpkJ1yGN)
-
-## :computer: Computation Theory
-
-- ### :film_projector: [Slides by Anuj Dawar](https://www.cl.cam.ac.uk/teaching/2122/Complexity/)
-
-- ### :film_projector: [Slides by Vann McGee](https://ocw.mit.edu/courses/24-242-logic-ii-spring-2004/)
-
-- ### :film_projector: [Slides by Andrew Pitts](https://www.cl.cam.ac.uk/teaching/2122/CompTheory/)
-
-- ### :film_projector: [Slides by Derek Bridge](http://www.cs.ucc.ie/~dgb/courses/toc/lectures.html)
-
-- ### :tv: [Videos by Michael Sipser](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/)
-
-- ### :tv: [Videos by Ghassan Shobaki](https://www.youtube.com/playlist?list=PL6KMWPQP_DM9Y7IgaEWa_OHAl3RkAQwqH)
-
-- ### :writing_hand: [Notes Part I by Scott Aaronson](https://ocw.mit.edu/courses/6-080-great-ideas-in-theoretical-computer-science-spring-2008/)
-
-- ### :writing_hand: [Notes by Eshan Chattopadhyay](https://www.cs.cornell.edu/courses/cs6810/2021fa/)
-
-- ### :writing_hand: [Notes Part II by Scott Aaronson](https://ocw.mit.edu/courses/6-045j-automata-computability-and-complexity-spring-2011/)
-
-- ### :film_projector: [Slides from University of Washington](http://courses.cs.washington.edu/courses/cse531/)
-
-- ### :tv: [Videos by Nathan Brunelle and David Evans](https://uvatoc.github.io/)
 
 ## :milky_way: [Differential Equations](https://github.com/tensorush/Awesome-Maths-Learning/blob/master/Differential-Equations)
 
-- ### :tv: [Videos by Kyle Broder](https://www.youtube.com/playlist?list=PL912tg7wFUfXIwSKeTyxU5LTqdRZ8Urza)
-
-- ### :tv: [Videos by Trefor Bazett](https://www.youtube.com/c/DrTreforBazett/playlists?view=50&sort=dd&shelf_id=4)
-
-- ### :tv: [Videos by Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqxWUzDlkrbtifIx-XbKYnge)
-
-- ### :tv: [Videos by Pavel Grinfeld](https://www.youtube.com/playlist?list=PLlXfTHzgMRUK56vbQgzCVM9vxjKxc8DCr)
-
-- ### :tv: [Videos by Jeffrey Chasnov](https://www.youtube.com/playlist?list=PLkZjai-2JcxlvaV9EUgtHj1KV7THMPw1w)
-
-- ### :tv: [Videos by Brandon Leonard](https://www.youtube.com/playlist?list=PLDesaqWTN6ESPaHy2QUKVaXNZuQNxkYQ_)
-
-- ### :tv: [Videos by Matthew Macauley](https://www.youtube.com/playlist?list=PLwV-9DG53NDz3o_g5QS3s9QWJX2wtAYPH)
-
-- ### :writing_hand: [Notes by Eugen Ionascu](https://github.com/tensorush/Awesome-Maths-Learning/blob/master/Differential-Equations/ionascu.pdf) — [Original Source](https://www.cs.bgu.ac.il/~leonid/ode_bio_files/Ionascu_LectNotes.pdf)
-
-- ### :writing_hand: [Notes by Alexander Grigorian](https://github.com/tensorush/Awesome-Maths-Learning/blob/master/Differential-Equations/grigorian.pdf) — [Original Source](https://www.math.uni-bielefeld.de/~grigor/odelec2008.pdf)
+- [Videos by Kyle Broder](https://www.youtube.com/playlist?list=PL912tg7wFUfXIwSKeTyxU5LTqdRZ8Urza)
+- [Videos by Trefor Bazett](https://www.youtube.com/c/DrTreforBazett/playlists?view=50&sort=dd&shelf_id=4)
+- [Videos by Michael Penn](https://www.youtube.com/playlist?list=PL22w63XsKjqxWUzDlkrbtifIx-XbKYnge)
+- [Videos by Pavel Grinfeld](https://www.youtube.com/playlist?list=PLlXfTHzgMRUK56vbQgzCVM9vxjKxc8DCr)
+- [Videos by Jeffrey Chasnov](https://www.youtube.com/playlist?list=PLkZjai-2JcxlvaV9EUgtHj1KV7THMPw1w)
+- [Videos by Brandon Leonard](https://www.youtube.com/playlist?list=PLDesaqWTN6ESPaHy2QUKVaXNZuQNxkYQ_)
+- [Videos by Matthew Macauley](https://www.youtube.com/playlist?list=PLwV-9DG53NDz3o_g5QS3s9QWJX2wtAYPH)
+- [Notes by Eugen Ionascu](https://github.com/tensorush/Awesome-Maths-Learning/blob/master/Differential-Equations/ionascu.pdf)
+- [Notes by Alexander Grigorian](https://github.com/tensorush/Awesome-Maths-Learning/blob/master/Differential-Equations/grigorian.pdf) 
 
 ## :flying_disc: [Differential Geometry](https://github.com/tensorush/Awesome-Maths-Learning/blob/master/Differential-Geometry)
-
-- ### :tv: [Videos by Justin Solomon](https://www.youtube.com/playlist?list=PLQ3UicqQtfNvPmZftPyQ-qK1wdXBxj86W)
-
-- ### :tv: [Videos by Lei Chen and others](https://www.youtube.com/playlist?list=PLOToEg4Hq27YOTIvTADD7yLIlSV0IBXt9)
-
-- ### :tv: [Videos by Norman Wildberger](https://www.youtube.com/playlist?list=PLIljB45xT85DWUiFYYGqJVtfnkUFWkKtP)
-
-- ### :writing_hand: [Notes by Keenan Crane](https://github.com/tensorush/Awesome-Maths-Learning/blob/master/Differential-Geometry/crane.pdf) — [Original Source](https://www.cs.cmu.edu/~kmcrane/Projects/DDG/paper.pdf)
-
-- ### :writing_hand: [Notes by Wulf Rossmann](https://github.com/tensorush/Awesome-Maths-Learning/blob/master/Differential-Geometry/rossmann.pdf) — [Original Source](https://mysite.science.uottawa.ca/rossmann/Differential%20Geometry%20book_files/Diffgeo.pdf)
-
-- ### :writing_hand: [Notes by Sigmundur Gudmundsson](https://github.com/tensorush/Awesome-Maths-Learning/blob/master/Differential-Geometry/gudmundsson.pdf) — [Original Source](http://www.matematik.lu.se/matematiklu/personal/sigma/Riemann.pdf)
-
-## :man_juggling: [Discrete Mathematics](https://github.com/tensorush/Awesome-Maths-Learning/blob/master/Discrete-Mathematics)
-
-- ### :tv: [Videos by Matthew Macauley](https://www.youtube.com/playlist?list=PLwV-9DG53NDz3zpkmsYx3BLzTAP6FyHeg)
-
-- ### :writing_hand: [Notes by Eshan Chattopadhyay](https://www.cs.cornell.edu/courses/cs6815/2019fa/)
-
-- ### :writing_hand: [Notes by Jieyou Xu](https://github.com/tensorush/Awesome-Maths-Learning/blob/master/Discrete-Mathematics/xu.pdf) — [Original Source](https://github.com/jieyouxu/COMP0147-Discrete-Mathematics-Notes)
-
-- ### :writing_hand: [Notes by Tero Harju](https://github.com/tensorush/Awesome-Maths-Learning/blob/master/Discrete-Mathematics/harju.pdf) — [Original Source](https://users.utu.fi/harju/combinenum/MainEn.pdf)
-
-- ### :black_joker: [Cheatsheet by Max Kasperowski](https://github.com/tensorush/Awesome-Maths-Learning/blob/master/Discrete-Mathematics/kasperowski.pdf) — [Original Source](https://github.com/Eddykasp/maths-cheatsheets)
-
-- ### :writing_hand: [Notes by Trinity College Dublin's students](https://github.com/tensorush/Awesome-Maths-Learning/blob/master/Discrete-Mathematics/trinity.pdf) — [Original Source](https://github.com/Scarlehh/Discrete_Math_Notes)
-
-- ### :writing_hand: [Notes by Anna Brandenberger and Binyuan Sun](https://github.com/tensorush/Awesome-Maths-Learning/blob/master/Discrete-Mathematics/brandenberger_sun.pdf) — [Original Source](https://github.com/abrandenberger/course-notes/blob/master/MATH-240-notes.pdf)
+- [Videos by Justin Solomon](https://www.youtube.com/playlist?list=PLQ3UicqQtfNvPmZftPyQ-qK1wdXBxj86W)
+- [Videos by Lei Chen and others](https://www.youtube.com/playlist?list=PLOToEg4Hq27YOTIvTADD7yLIlSV0IBXt9)
+- [Videos by Norman Wildberger](https://www.youtube.com/playlist?list=PLIljB45xT85DWUiFYYGqJVtfnkUFWkKtP)
+- [Notes by Keenan Crane](https://github.com/tensorush/Awesome-Maths-Learning/blob/master/Differential-Geometry/crane.pdf) 
+- [Notes by Wulf Rossmann](https://github.com/tensorush/Awesome-Maths-Learning/blob/master/Differential-Geometry/rossmann.pdf)
+- [Notes by Sigmundur Gudmundsson](https://github.com/tensorush/Awesome-Maths-Learning/blob/master/Differential-Geometry/gudmundsson.pdf)
 
 ## :world_map: [Functional Analysis](https://github.com/tensorush/Awesome-Maths-Learning/blob/master/Functional-Analysis)
 
